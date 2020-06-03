@@ -1,0 +1,14 @@
+ja:
+  activerecord:
+    models:
+      user: 'ユーザー'
+      comment:  'コメント'
+      admin_user: '管理者'
+    attributes:
+      user:
+        name: '名前'
+        age: '年齢'
+        address: '住所'
+        created_at: '作成日'
+        updated_at: '更新日'
+#created_atは元々Created Atだった。言語を変えるにはこれを小文字に統一し、複数の場合は＿でつなぐ必要がある。
