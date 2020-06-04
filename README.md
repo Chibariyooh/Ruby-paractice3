@@ -1,6 +1,6 @@
 # README
 * Ruby version:2.6.6  
-# Deviseを用いたログイン機能を実装しました　　
+# active_adminを使った管理者画面の構築　　
 
 ### ・ユーザーのIdとpasswordの一致ができているか確認。
 
